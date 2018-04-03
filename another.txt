@@ -1,0 +1,16 @@
+top 10 countries in GDP
+
+1 united states
+2 china
+3 japan
+4 germany
+5 united kingdom
+6 india
+7 france
+8 brazil
+9 italy
+10 canada
+
+
+16 indonesia <- woohoo my country
+ 
